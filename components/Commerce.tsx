@@ -9,12 +9,12 @@ export const Commerce: React.FC = () => {
           <div className="md:w-1/2 order-2 md:order-1">
              <div className="grid grid-cols-2 gap-4">
                <img 
-                  src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=800" 
+                  src="https://images.unsplash.com/photo-1550614000-4b9519e02d96?auto=format&fit=crop&q=80&w=800" 
                   className="w-full h-[300px] object-cover" 
                   alt="Fashion Editorial Model" 
                />
                <img 
-                  src="https://images.unsplash.com/photo-1529139574466-a302d2053990?auto=format&fit=crop&q=80&w=800" 
+                  src="https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&q=80&w=800" 
                   className="w-full h-[300px] object-cover mt-12" 
                   alt="High Fashion Product" 
                />
